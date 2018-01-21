@@ -1,7 +1,7 @@
 {
-  "name": "7.7",
+  "name": "lyrics",
   "version": "1.0.0",
-  "description": "",
+  "description": "website with embedded youtube song and lyrics",
   "main": "index.js",
   "scripts": {
     "watch": "npm-run-all watch:* ",
@@ -23,17 +23,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/radko79/golden.git"
+    "url": "git+https://github.com/radko79/Kodilla-W07.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/radko79/golden/issues"
+    "url": "hhttps://github.com/radko79/golden.git/issues"
   },
-  "homepage": "https://github.com/radko79/golden#readme",
+  "homepage": "https://github.com/radko79/golden.git/#readme",
   "dependencies": {
-    "autoprefixer": "^7.2.5",
     "autoprefixer-cli": "^1.0.0",
     "glob-run": "^0.1.6",
     "globstar": "^1.0.0",
